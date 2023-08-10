@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/francmauric?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=francmauric" alt="francmauric" /></a> </p>
 
-- 🔭 I’m currently working on personal proyects [https://apiclima.onrender.com/](https://apiclima.onrender.com/)
+- 🔭 I’m currently working on personal proyects [SPA peluqueria, con reservas de turnos)
 
 - 🌱 I’m currently learning **typescript**
 
-- 🤝 I’m looking for help with [proyecto clima y publicidad](https://apiclima.onrender.com/)
+- 🤝 I’m looking for help with [)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-franco-mauricio-cuello.onrender.com/](https://portfolio-franco-mauricio-cuello.onrender.com/)
 
 - 📝 I regularly write articles on [linkedin.com/in/franco-mauricio-cuello-0a00a924a](linkedin.com/in/franco-mauricio-cuello-0a00a924a)
 
-- 💬 Ask me about **html,css,react,javascript**
+- 💬 Ask me about **html,css,react,javascript,next.js**
 
 - 📫 How to reach me **francocuello10@gmail.com**
 
