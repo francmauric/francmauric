@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-franco-mauricio-cuello.onrender.com/](https://portfolio-franco-mauricio-cuello.onrender.com/)
 
-- 📝 I regularly write articles on [linkedin.com/in/franco-mauricio-cuello-0a00a924a](linkedin.com/in/franco-mauricio-cuello-0a00a924a)
+- 📝 you can find me at [linkedin.com/in/franco-mauricio-cuello-0a00a924a](linkedin.com/in/franco-mauricio-cuello-0a00a924a)
 
 - 💬 Ask me about **html,css,react,javascript,next.js**
 
